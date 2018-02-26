@@ -44,5 +44,6 @@ public class Category {
     public void setProductsByRow(List<List<Product>> productsByRow) {
         this.productsByRow = productsByRow;
     }
+
 }
 
